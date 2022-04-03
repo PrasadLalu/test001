@@ -13,8 +13,8 @@ conda activate <your file path>
 ```
 
 # Generate bellow file by running notebook
-Markup : * movies_list.pkl
-Markup : * similarity.pkl
+1. movies_list.pkl
+2. similarity.pkl
 
 
 # Run the application
